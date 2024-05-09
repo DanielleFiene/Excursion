@@ -1,9 +1,27 @@
+/* general */
 * {
     box-sizing: border-box;
     margin: 15px;
     padding: 0;
 }
 
+/* body */
 body {
     background-color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+/* navigation bar */
+ul {
+    list-style-type: none;
+    line-height: 40px;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
 }
