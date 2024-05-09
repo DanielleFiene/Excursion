@@ -26,16 +26,14 @@ a {
     font-size: 16px;
 }
 
-.video {
-    padding: 0px;
-}
-
+/* text section 1 */
 .travel {
     font-family: Verdana;
     font-size: 42px;
     font-weight: 300px;
 }
 
+/* text section2 */
 .excursions {
     font-family: Verdana;
     font-size: 21px;
